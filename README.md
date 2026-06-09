@@ -1,3 +1,61 @@
+# Tinokitos
+
+E-commerce de productos para bebés y primera infancia desarrollado como proyecto integrador del programa **Full Stack Web Development de Digital House (2022)**.
+
+## Descripción
+
+Tinokitos es una tienda online diseñada para ofrecer productos para bebés y niños pequeños, incluyendo cochecitos, practicunas, sillas de comer, andadores y juguetes.
+
+El objetivo del proyecto fue aplicar conceptos de desarrollo web full stack mediante la construcción de una plataforma de comercio electrónico funcional, trabajando en equipo bajo metodologías ágiles.
+
+## Tecnologías Utilizadas
+
+### Front-End
+
+* HTML5
+* CSS3
+* JavaScript
+* EJS (Embedded JavaScript Templates)
+
+### Back-End
+
+* Node.js
+* Express.js
+
+### Herramientas
+
+* Git
+* GitHub
+* Visual Studio Code
+* Metodologías Agile/Scrum
+
+## Funcionalidades
+
+* Navegación de catálogo de productos
+* Visualización de detalle de producto
+* Organización por categorías
+* Diseño responsive
+* Sistema de rutas con Express
+* Arquitectura MVC
+* Renderizado dinámico mediante EJS
+* Gestión de contenido a través de controladores y vistas
+
+## Aprendizajes
+
+Este proyecto me permitió adquirir experiencia práctica en:
+
+* Desarrollo Full Stack con JavaScript
+* Arquitectura MVC
+* Creación de aplicaciones web dinámicas
+* Trabajo colaborativo utilizando Git y GitHub
+* Diseño y maquetación responsive
+* Organización y planificación de proyectos de software
+
+## Estado del Proyecto
+
+Proyecto académico finalizado como parte del programa Full Stack de Digital House.
+
+
 # grupo_2_tinokitos
 Proyecto integrador:
 **INTEGRANTES**  
