@@ -1,3 +1,4 @@
+
 # Tinokitos
 
 E-commerce de productos para bebés y primera infancia desarrollado como proyecto integrador del programa **Full Stack Web Development de Digital House (2022)**.
@@ -7,6 +8,8 @@ E-commerce de productos para bebés y primera infancia desarrollado como proyect
 Tinokitos es una tienda online diseñada para ofrecer productos para bebés y niños pequeños, incluyendo cochecitos, practicunas, sillas de comer, andadores y juguetes.
 
 El objetivo del proyecto fue aplicar conceptos de desarrollo web full stack mediante la construcción de una plataforma de comercio electrónico funcional, trabajando en equipo bajo metodologías ágiles.
+
+<img width="1378" height="2387" alt="Tinokitos" src="https://github.com/user-attachments/assets/5128d4fd-18f9-4d93-abbe-f0a25b22bd6a" />
 
 ## Tecnologías Utilizadas
 
